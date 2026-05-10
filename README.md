@@ -1,6 +1,8 @@
 # Spotify-Display
 
 A simple project that displays currently playing Spotify track information.
+https://cad.onshape.com/documents/3d02c4f3ff12c37e63ec98e1/w/bf43ce531ecab7d80e000449/e/1b106b2c301dd9b2318ce185?renderMode=0&uiState=6a00e51640180d4d8078eb58
+
 
 ## Features
 - Shows current song title
