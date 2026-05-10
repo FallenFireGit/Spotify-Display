@@ -19,6 +19,14 @@ https://cad.onshape.com/documents/3d02c4f3ff12c37e63ec98e1/w/bf43ce531ecab7d80e0
 ## Usage
 - Start the application and view your currently playing track.
 
+## BOM
+
+- TFT display 1.8'
+- Wemos ESP32 C3 Mini v1.0.0
+- Cherry MX Switch (Keycaps too)
+- PLA (For Case)
+- a battery pack if you want to add it
+
 ## 3D Design
 
 <img width="846" height="552" alt="image" src="https://github.com/user-attachments/assets/8be27d9c-0871-4e6a-8d25-edae6977895a" />
